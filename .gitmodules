@@ -1,0 +1,3 @@
+[submodule "Python/Python"]
+	path = Python/Python
+	url = https://github.com/Konrad-Ziarko/Python
